@@ -1,0 +1,39 @@
+.body {
+    background-color: gainsboro ;
+}
+
+.TABEL {
+
+    font-family: Arial,sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+
+
+}
+
+
+td, th {
+    border: 3px solid gold;
+    text-align: center;
+    padding: 13px;
+}
+
+tr:nth-child(even) {
+    background-color: deepskyblue;
+}
+
+
+
+
+
+
+
+.footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+}

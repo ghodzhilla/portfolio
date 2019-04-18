@@ -1,0 +1,70 @@
+.body {
+    background-color: lightcoral ;
+}
+
+
+
+.kleur {background-color: powderblue;}
+
+.box {
+    width: 500px;
+    height: 100px;
+    background-color: dodgerblue;
+    margin-top: 0px;
+}
+
+.box2 {
+    width: 500px;
+    height: 65px;
+    background-color: chocolate;
+    margin-top: 0px;
+}
+
+.box3 {
+    width: 650px;
+    height: 50px;
+    background-color: aquamarine;
+    margin-top: 0px;
+}
+
+
+.box4 {
+    width: 680px;
+    height: 50px;
+    background-color: aquamarine;
+    margin-top: 0px;
+}
+
+.box5 {
+    width: 650px;
+    height: 50px;
+    background-color: aquamarine;
+    margin-top: 0px;
+}
+
+.boxv {
+    width: 500px;
+    height: 55px;
+    background-color: dodgerblue;
+    margin-top: 0px;
+}
+
+
+.boxv2 {
+    width: 500px;
+    height: 55px;
+    background-color: dodgerblue;
+    margin-top: 0px;
+}
+
+
+
+.footer2 {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+}

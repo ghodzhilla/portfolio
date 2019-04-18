@@ -1,0 +1,44 @@
+.home {background-color: powderblue;}
+.marathon1{
+    background-color: rosybrown;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #ff19ee;
+    margin-top: 0px;
+}
+
+.info{
+    background-color: rebeccapurple;
+    width: 200px;
+}
+
+.titel{
+    background-color: gray;
+}
+
+.aanmelden{
+    background-color: MediumSeaGreen;
+}
+
+
+.verhaal {
+    width: 900px;
+    height: 400px;
+    background-color: coral;
+    margin-top: 0px;
+}
+
+
+
+
+
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}

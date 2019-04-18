@@ -1,0 +1,40 @@
+.body1 {
+    background-color: gainsboro ;
+}
+
+
+
+.box1 {
+    width: 530px;
+    height: 60px;
+    background-color: gray;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer1 {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+}
